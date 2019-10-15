@@ -1,0 +1,94 @@
+*{
+margin: 0px ;
+padding: 0px ;
+}
+body{
+    background:rgb(255, 254, 254);
+    color: black;
+}
+#contenedor {
+    width: 1100px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+header{
+   
+    background: white;
+    
+}
+header h1{
+   font-size: 40px;
+   text-align: center;
+   clear: both;
+   background: black;
+   color: white;
+ 
+}
+nav{
+    background: darkgrey;
+    font-size: 15px;
+    height: 250px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px; 
+    float: left;
+    text-align: center;
+}
+#seccion{
+    width: 800px;
+    height: 800px;
+    float: right ;
+    background: lightblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+#articulo1{
+    width: 500;
+    height: 700px;
+    float: left ;
+    background: lightblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+#aside1{
+    width: auto;
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: lightgoldenrodyellow;
+}
+#aside2{
+    width: auto;
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: lightgoldenrodyellow;
+}
+#seccion2{
+    width: 800px;
+    height: 800px;
+    float: right ;
+    background: darkgrey;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+footer{
+    clear: both;
+    width: 1100px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: coral;
+    text-align: center;
+   }
